@@ -43,6 +43,7 @@ public class LoginPageTest extends TestBase1{
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 			System.out.println(e.getMessage());
+			System.out.println(e.getMessage());
 		}
 	}
 	/*@AfterTest
